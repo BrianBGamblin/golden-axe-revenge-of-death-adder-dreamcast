@@ -1,0 +1,221 @@
+{
+ "tracks": [
+  {
+   "cmd": "81",
+   "rec": "music_clean",
+   "start": 147641,
+   "samples": 2262371,
+   "loop": 292355,
+   "in_index": true,
+   "sha1": "039d91cfcbd99915e8e3250714543663fb4aba2e"
+  },
+  {
+   "cmd": "82",
+   "rec": "music_clean",
+   "start": 10728828,
+   "samples": 3147538,
+   "loop": 1025983,
+   "in_index": true,
+   "sha1": "5ad5d3338341350c40a78565823b6310d1959a45"
+  },
+  {
+   "cmd": "83",
+   "rec": "music_clean",
+   "start": 21312845,
+   "samples": 2254746,
+   "loop": 1129023,
+   "in_index": true,
+   "sha1": "bfbeab02bb5d2528141a47eeb1b0dfd130229e8f"
+  },
+  {
+   "cmd": "84",
+   "rec": "music_clean",
+   "start": 31896940,
+   "samples": 2479216,
+   "loop": 790632,
+   "in_index": true,
+   "sha1": "462e472226db80442ff5327832abcd8b16c1951a"
+  },
+  {
+   "cmd": "85",
+   "rec": "music_clean",
+   "start": 42480815,
+   "samples": 530662,
+   "loop": 11097,
+   "in_index": true,
+   "sha1": "102164c58240df8272328d3865d18aa26bc60486"
+  },
+  {
+   "cmd": "86",
+   "rec": "music_clean",
+   "start": 53064825,
+   "samples": 1707967,
+   "loop": 798730,
+   "in_index": true,
+   "sha1": "4ae9bb396c571738b7f23003f539bbee9fdf6066"
+  },
+  {
+   "cmd": "87",
+   "rec": "music_clean",
+   "start": 63648880,
+   "samples": 155271,
+   "loop": 3732,
+   "in_index": true,
+   "sha1": "81b02079de34c7e8e9b963fc07cc90881500fb6d"
+  },
+  {
+   "cmd": "88",
+   "rec": "music_clean",
+   "start": 74232985,
+   "samples": 137348,
+   "loop": 3399,
+   "in_index": true,
+   "sha1": "98677a2a675a7eb176188cae4bd42dec674bbd44"
+  },
+  {
+   "cmd": "89",
+   "rec": "music_clean",
+   "start": 84818448,
+   "samples": 277562,
+   "loop": 17781,
+   "in_index": true,
+   "sha1": "f783b7773d1d5d681cce8a764d7eb3353116fa48"
+  },
+  {
+   "cmd": "8a",
+   "rec": "music_clean",
+   "start": 95400840,
+   "samples": 3656363,
+   "loop": 84359,
+   "in_index": true,
+   "sha1": "9ce3044f109008217d63c7e8f335fa04d349c175"
+  },
+  {
+   "cmd": "8b",
+   "rec": "music_clean",
+   "start": 105984915,
+   "samples": 607257,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "fe9837727b5e7f608f2e717ae1948711bca15eb3"
+  },
+  {
+   "cmd": "8c",
+   "rec": "music_clean",
+   "start": 116571652,
+   "samples": 568515,
+   "loop": 48950,
+   "in_index": true,
+   "sha1": "ba9a86b1124825352457850ed9419448db2b78e1"
+  },
+  {
+   "cmd": "8d",
+   "rec": "music_clean",
+   "start": 127152841,
+   "samples": 755433,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "34abcab00f0908e468f5e8916dcc411d465f22d2"
+  },
+  {
+   "cmd": "8e",
+   "rec": "music_clean",
+   "start": 137739839,
+   "samples": 1575076,
+   "loop": 16383,
+   "in_index": true,
+   "sha1": "bdf159870188761e28fca029e64223195a285cb3"
+  },
+  {
+   "cmd": "8f",
+   "rec": "music_clean",
+   "start": 148320953,
+   "samples": 2616115,
+   "loop": 537859,
+   "in_index": true,
+   "sha1": "5e74c5de26dcc33af88b62f299b0554afa2c65aa"
+  },
+  {
+   "cmd": "90",
+   "rec": "music_clean",
+   "start": 158905047,
+   "samples": 530443,
+   "loop": 10878,
+   "in_index": true,
+   "sha1": "1df614c9d92d049cce134cb6e33813da464ee85d"
+  },
+  {
+   "cmd": "91",
+   "rec": "music_clean",
+   "start": 169488836,
+   "samples": 1960864,
+   "loop": 661952,
+   "in_index": true,
+   "sha1": "b4009e45dc461688061c5475c9e3710090dc5635"
+  },
+  {
+   "cmd": "92",
+   "rec": "music_clean",
+   "start": 180072896,
+   "samples": 1569192,
+   "loop": 530064,
+   "in_index": true,
+   "sha1": "d8a852b0baf5e6164da38d368e1e503b254c1aff"
+  },
+  {
+   "cmd": "93",
+   "rec": "music_clean",
+   "start": 190656989,
+   "samples": 959175,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "64ee3cf2c16cfd3b59d538a410a889f94cf41061"
+  },
+  {
+   "cmd": "94",
+   "rec": "music_clean",
+   "start": 201243722,
+   "samples": 1117494,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "be25b1428cfc13be6ea0cbe34d3f3ca797078d54"
+  },
+  {
+   "cmd": "95",
+   "rec": "music_clean",
+   "start": 211827816,
+   "samples": 1818197,
+   "loop": 605880,
+   "in_index": true,
+   "sha1": "43db0900d8625c98b81853411b30f0dae6b2a6b6"
+  },
+  {
+   "cmd": "96",
+   "rec": "music",
+   "start": 211827816,
+   "samples": 615195,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "7341221f42b8ab21f15a92b4bf7d92160076508b"
+  },
+  {
+   "cmd": "97",
+   "rec": "music2",
+   "start": 53067769,
+   "samples": 616077,
+   "loop": -1,
+   "in_index": true,
+   "sha1": "af89d1dbc7defb85d5c2ceedbd2689abc0341dec"
+  },
+  {
+   "cmd": "b7",
+   "rec": "music",
+   "start": 222411660,
+   "samples": 206388,
+   "loop": -1,
+   "in_index": false,
+   "sha1": "035565c1fec9562fa520c45298bbad8826c35fa9"
+  }
+ ],
+ "index_sha1": "471b3ba903b801e6bf71e4b739751c82525e5165"
+}

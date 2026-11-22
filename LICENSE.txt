@@ -1,0 +1,34 @@
+Golden Axe: The Revenge of Death Adder - Dreamcast Edition : disc builder
+Copyright (c) 2026 Gamblin Games. All rights reserved in the parts that are ours.
+
+FREE OF CHARGE
+You may use this kit, and you may pass on unmodified copies of the whole kit, free of
+charge. You may not sell it, bundle it with anything sold, or charge for discs or disc
+images made with it.
+
+NO GAME INCLUDED
+This kit contains no part of SEGA's game. To build a disc you must supply your own copy of
+the game's ROM set. Do not distribute ROM files or built disc images with or alongside this
+kit.
+
+NOT AFFILIATED
+This is an unofficial fan project. It is not affiliated with, endorsed by, sponsored by or
+supported by SEGA. "Golden Axe", "The Revenge of Death Adder", "Dreamcast" and "SEGA" are
+trademarks of SEGA Corporation, used here only to say what this kit is for.
+
+OUR PARTS
+The builder script, the programs in bin/, the prebuilt objects in port/obj/, the Lua scripts
+and the data tables in data/ are ours. They are provided in the form you find them; no licence
+to their source code is given.
+
+OTHER PEOPLE'S PARTS
+The kit bundles third-party software under its own licences (MAME code under BSD-3-Clause,
+KallistiOS, the GNU toolchain and others). See THIRD-PARTY.md and LICENSES/. Nothing in these
+terms limits the rights those licences give you in those parts.
+
+NO WARRANTY
+The kit is provided "as is", without warranty of any kind. Use it at your own risk; in no
+event are the authors liable for any claim or damage arising from its use.
+
+If you hold rights in the game and have a concern about this project, contact us through the
+project page and we will respond promptly.
