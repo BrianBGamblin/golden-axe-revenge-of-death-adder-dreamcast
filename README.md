@@ -58,7 +58,7 @@ same options as the script (`-Fresh` starts over, `-Jobs 2` for a small PC, `-Ma
 | **GAME OPTIONS** | Difficulty, lives, vitality, players (2–4), continues, demo sound — the arcade board's own settings. |
 | **PICTURE** | ARCADE (the arcade screen exactly), FULL VIEW (16 more lines below), WIDE (16:9 — set the TV to wide). |
 | **SCREEN 16:9** | Keeps a 4:3 picture the right shape on a wide TV. |
-| **TV MODE** | 240P is how the arcade game was made and is the mode to use: sharpest and fastest. 480I is there for flat TVs that will not show 240p; it is a little softer and slows down in busy fights. A VGA monitor or HDMI box is detected by itself and runs at 480p. |
+| **TV MODE** | 240P is how the arcade game was made and is the mode to use: sharpest and fastest. 480I is an extra for flat TVs that will not show 240p; it is a work in progress (a little softer, and it drops frames in busy fights). A VGA monitor or HDMI box is detected by itself and runs at 480p. |
 | **ZOOM** | Scaled pictures as the arcade drew them, or smoothed. |
 | **SCANLINES / SMOOTHING** | Scanlines (light or dark) on a VGA monitor or HDMI box; picture smoothing. |
 | **HORIZONTAL / VERTICAL POS** | Moves the picture on the screen. |
@@ -74,10 +74,10 @@ switches between 240P and 480I.
 
 ## Known issues
 
-- **480I drops frames.** With TV MODE set to 480I the game loses frame rate once more than a few
-  enemies are on screen. **240P does not** - it is how the arcade game was made, it is sharper, and
-  it is the mode to use on any TV that shows it. 480I is only there for flat TVs that will not
-  show 240p.
+- **480I is a work in progress.** The arcade original is a 240p game, and 240P is the mode this
+  port is built around: sharp and full speed. 480I is an extra, added for flat TVs that will not
+  show 240p. Its picture is steady, but for now it drops frames once more than a few enemies are
+  on screen. If your TV shows 240p, use 240P.
 - The very busiest fights (a dozen enemies) dip below full speed in 240P too.
 - FULL VIEW shows 16 more lines than the arcade screen had. Where the game has no picture for
   them, the ground is carried on and full-screen pictures are stretched slightly.
@@ -90,7 +90,7 @@ Honestly:
 
 - Played on a real NTSC Dreamcast on a CRT at 240p: plays well, sharp text, music and effects in place.
 - 480p through VGA / HDMI boxes, WIDE and 16:9: built and checked in an emulator; **not yet confirmed on real hardware.**
-- 480I on a real console: steady picture, but it loses frame rate with more than a few enemies on screen. 240P does not.
+- 480I on a real console: steady picture, but it drops frames with more than a few enemies on screen. A work in progress; 240P does not.
 - The busiest fights (a dozen enemies on screen) drop below full speed on a real console.
 - PAL consoles (50 Hz): supported in the code, not tested on hardware.
 - This is a **beta**. If something is wrong on your console, the safe reset above will get you a picture back.
