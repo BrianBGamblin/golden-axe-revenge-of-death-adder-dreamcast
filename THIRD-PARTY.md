@@ -1,8 +1,12 @@
 # Third-party software in this kit
 
 This kit bundles other people's software so that you have nothing to install. Each piece is
-under its own licence; the texts are in `LICENSES/`. Where a licence asks for the source code
-to be offered, the source location is given here, and Gamblin Games will also supply a copy on
+under its own licence; the texts are in `LICENSES/`. For the pieces whose licence asks that the
+source code be offered (GCC, binutils, genromfs, mkisofs, cdi4dc), the source archives are
+attached to the same release page this kit was downloaded from
+(`gcc-13.2.0.tar.xz`, `binutils-2.43.tar.xz`, `KallistiOS-d142b568.tar.gz` - which holds the
+compiler patches under `utils/dc-chain` and the sources of genromfs, bin2c, scramble and makeip -
+`cdrtools-2.01.tar.bz2`, `img4dc-master.tar.gz`), and Gamblin Games will also supply a copy on
 request through the project page.
 
 Nothing in this kit comes from SEGA. No part of the game is included.
